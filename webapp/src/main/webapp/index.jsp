@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
   
-  <h1> TIME TO END THE TASK </h1>
+  <h1> Ending  </h1>
   
 </form>
